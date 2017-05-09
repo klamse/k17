@@ -13,7 +13,7 @@
         <sys_created_on>2017-05-09 19:06:00</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_id>02aeafb20ce232007f44239ee6b64eb1</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>x_snc_k17.lab.athor</sys_name>
         <sys_package display_value="K17" source="x_snc_k17">0ffd53ba0ca232007f44239ee6b64e6f</sys_package>
         <sys_policy/>
@@ -21,9 +21,9 @@
         <sys_scope display_value="K17">0ffd53ba0ca232007f44239ee6b64e6f</sys_scope>
         <sys_update_name>sys_properties_02aeafb20ce232007f44239ee6b64eb1</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-05-09 19:06:00</sys_updated_on>
+        <sys_updated_on>2017-05-09 19:10:31</sys_updated_on>
         <type>string</type>
-        <value>Kevin</value>
+        <value>Kevin L</value>
         <write_roles/>
     </sys_properties>
     <sys_translated_text action="delete_multiple" query="documentkey=02aeafb20ce232007f44239ee6b64eb1"/>
